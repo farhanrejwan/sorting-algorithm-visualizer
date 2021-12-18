@@ -45,3 +45,5 @@ https://github.com/farhanrejwan/sorting-algorithm-visualizer
 
 ## Contact
 Farhan Rejwan  - farhan.rejwan@gmail.com
+
+Project link - https://github.com/farhanrejwan/sorting-algorithm-visualizer
