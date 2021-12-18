@@ -40,7 +40,7 @@ https://www.eclipse.org/downloads
 ```sh
 https://github.com/farhanrejwan/sorting-algorithm-visualizer
 ```
-5. After opening Eclipse, go to "File -> Import -> Git -> Projects from Git -> Clone URI". Paste the URI if it isn't pasted automatically. Click Next, then click Finish.
+5. After opening Eclipse, go to "File -> Import -> Git -> Projects from Git -> Clone URI". Paste the URI if it isn't pasted automatically. Click "Next -> Next -> Next", select "Import existing Eclipse projects", click "Next", then click Finish.
 6. Open "sorting-algorithm-visualizer -> src -> main -> Main.java" and run the project.
 
 ## Contact
